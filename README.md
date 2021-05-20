@@ -4,7 +4,7 @@ Through a brief study, we have concluded that children benefit from the use of g
 children attain  healthier domestic habits can be achieved more easily by implementing a points-based reward system for completing tasks.
 
 Project Authors:
-Diogo Branco
-José Domingues
-Raúl Alves
+Diogo Branco,
+José Domingues,
+Raúl Alves,
 Brian Marques
